@@ -1,0 +1,32 @@
+{
+  "name": "final-project--intro-to-internet-programming--cs-275--spring-2023",
+  "version": "1.0.0",
+  "description": "Create a *single* web page consisting of HTML, CSS, and JavaScript that prompts the user for the size of a matrix, then prints the matrix with values from 1–user input, then prints the matrix in reverse.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninam233/final-project--intro-to-internet-programming--cs-275--spring-2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninam233/final-project--intro-to-internet-programming--cs-275--spring-2023/issues"
+  },
+  "homepage": "https://github.com/ninam233/final-project--intro-to-internet-programming--cs-275--spring-2023#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.21.4",
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "stylelint": "^15.6.1"
+  }
+}
